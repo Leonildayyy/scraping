@@ -1,2 +1,2 @@
 # scrape
-using requests library to extract some data
+using requests library to extract data
